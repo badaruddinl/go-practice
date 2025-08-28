@@ -1,7 +1,7 @@
 package practice
 
 func practiceList() {
-	//just practice import
+	//just practice for import function and variable
 	HelloWorld()
 	Number()
 	LenVal()
